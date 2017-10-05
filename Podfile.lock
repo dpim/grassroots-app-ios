@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.4.0)
+  - BTNavigationDropdownMenu (0.4.1)
+  - LinkLabel (1.0.2)
+  - PlaceholderTextView (0.2.0)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftLinkPreview (2.0.4)
+  - UITextField-Navigation (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BTNavigationDropdownMenu (from `https://github.com/PhamBaTho/BTNavigationDropdownMenu.git`, branch `swift-3.0`)
+  - LinkLabel
+  - PlaceholderTextView
+  - SwiftKeychainWrapper
+  - SwiftLinkPreview
+  - UITextField-Navigation
+
+EXTERNAL SOURCES:
+  BTNavigationDropdownMenu:
+    :branch: swift-3.0
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+
+CHECKOUT OPTIONS:
+  BTNavigationDropdownMenu:
+    :commit: 2c08c8579cf7a53ecb3dbf578e6e1034080a9859
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  BTNavigationDropdownMenu: 093f3cbfad1572f2c222bdf8d17584d1e13380d4
+  LinkLabel: 1e29060efe8409d96fa4f708796aaacebdd575cf
+  PlaceholderTextView: 0489c5ccfc0f576d5a627b051131e01f4ab0e2e5
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftLinkPreview: 43a71a3effdbcac7bdfd5cfd66af3c5a67589b2f
+  UITextField-Navigation: 20e317ede7db16990db5b42fedaaaa32997ef614
+
+PODFILE CHECKSUM: 488565ecdc7f7da08b480cbfe01dfb7d7ec07f1e
+
+COCOAPODS: 1.2.1
